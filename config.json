@@ -1,0 +1,14 @@
+{
+    "BOT_TOKEN": "MTAwOTUzMTM4NjgwNzQ2ODEwNA.GQnzGY.5mChCFRPMJ84UWVGeLKpFFonrI-zv8FGWuRyVE",
+    "SERVER_NAME": "SHA-RP 2.0",
+    "SERVER_IP": "51.195.61.162",
+    "SERVER_PORT": "30120",
+    "OWNER_ID":"379339201046511626",
+    "tenorAPI":"ZEEELJXAFQBN",
+    "DEFAULT_PREFIX":"bl",
+    "mongoPass": "mongodb+srv://0x31r:<password>@blancabot.uvuhsw0.mongodb.net/?retryWrites=true&w=majority",
+    "ERROR_LOGS_CHANNEL": "1025169874068189246",
+    "YT_COOKIE": ""
+    
+}
+
